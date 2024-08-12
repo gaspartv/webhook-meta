@@ -1,0 +1,53 @@
+ACCOUNT_UPDATE
+
+Usos permitidos
+Notificação relativa a uma alteração no status de um app; por exemplo, cartão de crédito ou candidatura a emprego
+Notificação relativa a atividades suspeitas, como alertas de fraude
+Usos não permitidos (lista não exaustiva)
+Conteúdo promocional, incluindo, entre outros, ofertas, promoções, cupons e descontos para conteúdo recorrente (por exemplo, extrato pronto, fatura vencida, novas ofertas de empregos)
+Comandos interativos para pesquisas, enquetes ou avaliações que não se relacionem a uma interação prévia no Messenger
+Indisponível para a API de Mensagens do Instagram.
+
+CONFIRMED_EVENT_UPDATE
+
+Usos permitidos
+Lembrete de aula, compromisso ou evento futuro que um usuário agendou
+Confirmação da reserva ou da participação do usuário em um evento ou compromisso aceito
+Notificação sobre o agendamento do transporte ou da viagem do usuário, por exemplo, data de chegada, cancelamentos, atraso com a bagagem ou outras mudanças de status
+Usos não permitidos (lista não exaustiva)
+Conteúdo promocional, incluindo promoções, ofertas, cupons e descontos, entre outros
+Conteúdo relacionado a eventos nos quais o usuário não está inscrito (por exemplo, lembretes sobre a compra de ingressos para eventos, venda cruzada de outros eventos, cronogramas de viagem etc.)
+Mensagens relativas a eventos anteriores
+Comandos interativos para pesquisas, enquetes ou avaliações que não se relacionem a uma interação prévia no Messenger
+Indisponível para a API de Mensagens do Instagram.
+
+CUSTOMER_FEEDBACK
+
+Usos permitidos
+Pesquisa de feedback do suporte de compra
+Pesquisa do evento de feedback
+Avaliações de produto
+Usos não permitidos (lista não exaustiva)
+A tag somente pode ser usada com o Modelo de Feedback de Clientes. O uso em qualquer outra situação está proibido e resultará em falhas.
+Indisponível para a API de Mensagens do Instagram.
+
+HUMAN_AGENT
+
+Usos permitidos
+Suporte prestado por agentes humanos para resolver problemas que não podem ser solucionados dentro da janela-padrão de mensagens de 24 horas, por exemplo, problemas que precisam ser resolvidos fora do horário de atendimento regular ou que exigem mais de 24 horas para a resolução
+Usos não permitidos (lista não exaustiva)
+Mensagens automáticas
+Conteúdo não relacionado à consulta do usuário
+Obrigatório para a API de Mensagens do Instagram.
+
+POST_PURCHASE_UPDATE
+
+Usos permitidos
+Confirmação de uma transação, como faturas ou recibos
+Atualização sobre o status do envio, por exemplo, produto em trânsito, enviado, entregue ou atrasado
+A atualização de status requer que um usuário realize uma ação em um pedido efetuado, como um cartão de crédito recusado, itens fora de estoque ou outras atualizações que exigem uma ação do usuário
+Usos não permitidos (lista não exaustiva)
+Conteúdo promocional, incluindo promoções, ofertas, cupons e descontos, entre outros
+Mensagens de venda cruzada ou upsell de produtos ou serviços
+Comandos interativos para pesquisas, enquetes ou avaliações que não se relacionem a uma interação prévia no Messenger
+Indisponível para a API de Mensagens do Instagram.
